@@ -1,0 +1,55 @@
+#first-section {
+    background-image: url(images/donation5.jpg);
+}
+
+#first-section {
+    text-align: center;
+    color: white;
+
+    padding: 60px 100px 50px 100px;
+}
+
+.title-position {
+    font-size: 50px;
+}
+
+.button {
+    background: linear-gradient(45deg, salmon, lightcoral);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.section-position {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.amount-box {
+    height: 60px;
+    font-size: 50px;
+    color: gray;
+    border: 1px solid gray;
+    margin: 3px;
+    padding: 10px;
+    display: block;
+}
+
+.amount-box:hover {
+    background-color: whitesmoke;
+    color: lightcoral;
+    border: 1px solid lightcoral;
+}
+
+hr {
+    margin: 0% 15% 2% 15%;
+    color: gray;
+}
