@@ -53,3 +53,27 @@ hr {
     margin: 0% 15% 2% 15%;
     color: gray;
 }
+
+.donation-plan {
+    border: 1px solid gray;
+    margin: 10px;
+    height: 200px;
+    width: 250px;
+    text-align: start;
+    padding: 10px;
+
+}
+
+#food-plan {
+    background-color: beige;
+}
+
+#shelter-plan {
+    background-color: rgb(248, 240, 230);
+}
+
+#education-plan {
+    background-color: whitesmoke;
+
+
+}
