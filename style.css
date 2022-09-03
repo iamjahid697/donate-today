@@ -2,6 +2,8 @@
     background-image: url(images/donation5.jpg);
 }
 
+
+
 #first-section {
     text-align: center;
     color: white;
@@ -64,6 +66,7 @@ hr {
 
 }
 
+
 #food-plan {
     background-color: beige;
 }
@@ -74,8 +77,21 @@ hr {
 
 #education-plan {
     background-color: whitesmoke;
+}
 
+#education-plan img {
+    width: 22%;
+}
 
+#form {
+
+    background-color: antiquewhite;
+    margin: 20px 100px;
+    height: 100px;
+}
+
+#form-position {
+    padding: 40px;
 }
 
 #footer {
