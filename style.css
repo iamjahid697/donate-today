@@ -83,6 +83,20 @@ hr {
     width: 22%;
 }
 
+#sylhet-flood {
+    margin-top: 50px;
+    padding-left: 10%;
+    display: flex;
+}
+
+.how-donate {
+    width: 40%;
+}
+
+.how-donate img {
+    width: 100%;
+}
+
 #form {
 
     background-color: antiquewhite;
